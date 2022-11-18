@@ -10,7 +10,7 @@ Requires following add-ons:
 
 ## Main pipeline scripts
 - Spectrogram_check
-- PD_EEG_pipeline_baseline
+- PD_EEG_pipeline_baseline: smallest baseline threshold acquired
 - PD_EEG_pipeline_rest
 
 ## Preprocessing steps in MATLAB
