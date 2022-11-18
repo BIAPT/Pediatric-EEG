@@ -20,3 +20,6 @@ Requires following add-ons:
 - derived from the NET_ICU Pipeline by Charlotte and Miriam
 - Utils include csv files of left, right, whole brain electrode locations in 'BESA'
 - Topographic Map measuring from 1-15Hz (delta, theta, alpha) frequency bands
+
+## Dimensionality Reduction in Python
+- Multiple States can be projected on to the same 2 ICA component space 
