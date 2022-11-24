@@ -1,0 +1,14 @@
+ID,pair_num,baseline,anesthesia
+009PD,009PD_1,baselA,mida4A
+015PD,015PD_1,baselA,dex03A
+015PD,015PD_2,baselA,prop2A
+015PD,015PD_3,baselA,prop3A
+016PD,016PD_1,baselA,ket10A
+016PD,016PD_2,baselA,ket40A
+016PD,016PD_3,ket10A,k10de3
+016PD,016PD_4,ket40A,k40de3
+019PD,019PD_1,baselA,mida1A
+019PD,019PD_2,baselA,mida3A
+019PD,019PD_3,baselA,mida4A
+019PD,019PD_4,baselA,mida6A
+020PD,020PD_1,baselA,midaz6
